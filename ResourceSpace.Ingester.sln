@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResourceSpace.Ingester", "ResourceSpace.Ingester.csproj", "{CCAE3030-48D2-4547-BFE8-35E95C96AC29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCAE3030-48D2-4547-BFE8-35E95C96AC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCAE3030-48D2-4547-BFE8-35E95C96AC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCAE3030-48D2-4547-BFE8-35E95C96AC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCAE3030-48D2-4547-BFE8-35E95C96AC29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52A6EE30-FB72-4246-B7FB-B324B9E315FC}
+	EndGlobalSection
+EndGlobal
